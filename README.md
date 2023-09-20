@@ -6,4 +6,7 @@ The website for the book can be found at:
 [Artificial Intellignece: A Modern Approach](https://aima.cs.berkeley.edu/)
 
 
-
+## Forked copy of Jack's
+- To pull from the forked origin, do the following:
+    - Add it as an upstream using `git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git`
+    - Do `git pull upstream main`
